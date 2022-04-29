@@ -1,4 +1,4 @@
-Arguments
+Arguments of console application
 
 type: [normal | poisson | uniform]
 
