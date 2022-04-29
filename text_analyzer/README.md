@@ -1,4 +1,4 @@
-A console application that allows you to analyze text files.
+Console application for analysis of text files.
 
 Input parameter: input file 
 
